@@ -1,4 +1,0 @@
-=Ruby on Rails Tutorial
-==demonstration application
-
-This is the demonstration applicatuon for Ruby on Rails Tutorial: Learning Rails by Exmaple by <a href=http://michaelhartl.com, "Michael Hartl" /a>
